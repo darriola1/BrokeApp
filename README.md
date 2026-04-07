@@ -21,17 +21,17 @@ El pipeline actual tiene los siguientes componentes, pero ninguno funciona corre
 
 ### 2. Docker
 
-- [  ] Imagen actualizada de Python
-- [  ] Revisar ruta de copia de requirements.txt
-- [  ] Corregir error al ejecutar la aplicación
+- [ x ] Imagen actualizada de Python
+- [ x ] Revisar ruta de copia de requirements.txt
+- [ x ] Corregir error al ejecutar la aplicación
 
 ### 3. APP / Testing
 
 > **Nota:** el archivo `app/main.py` no debe modificarse. Los demás archivos deben corregirse para que sean consistentes con su implementación.
 
-- [  ] Solucionar comportamiento del test
-- [  ] Nombre del endpoint de check incorrecto
-- [  ] Valor de respuesta incorrecto
+- [ x ] Solucionar comportamiento del test
+- [ x ] Nombre del endpoint de check incorrecto
+- [ x ] Valor de respuesta incorrecto
 
 ## Estructura del repositorio
 
